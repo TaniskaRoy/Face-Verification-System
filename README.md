@@ -5,8 +5,8 @@ This project develops a face verification system using both traditional and deep
 
 
 ## Dataset
--Utilized a custom dataset consisting of 851 images from 51 individuals (with more than 10 images per person).
--The link to the dataset is https://drive.google.com/file/d/19xRyHXLK5l3i2tkPbl9OqTI4VFZ2U75F/view?usp=sharing
+- Utilized a custom dataset consisting of 851 images from 51 individuals (with more than 10 images per person).
+- The link to the dataset is https://drive.google.com/file/d/19xRyHXLK5l3i2tkPbl9OqTI4VFZ2U75F/view?usp=sharing
 ## Approach & Methodology
 The project explores different techniques for feature extraction and classification:
 
