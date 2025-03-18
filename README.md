@@ -4,7 +4,7 @@
 This project develops a face verification system using both traditional and deep learning approaches. The system leverages a custom dataset of 851 images from 51 individuals (with more than 10 images per person) to perform face recognition and verification.
 
 
-##Dataset
+## Dataset
 Utilized a custom dataset consisting of 851 images from 51 individuals (with more than 10 images per person).
 The link to the dataset is :https://drive.google.com/file/d/19xRyHXLK5l3i2tkPbl9OqTI4VFZ2U75F/view?usp=sharing
 ## Approach & Methodology
